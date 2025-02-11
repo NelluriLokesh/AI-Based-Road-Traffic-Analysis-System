@@ -1,8 +1,7 @@
 # AI-Based Road Traffic Analysis System
 =====================================
 
-![Traffic Analysis](https://github.com/NelluriLokesh/AI-Based-Road-Traffic-Analysis-System/blob/main/output.avi)
-
+![Traffic Analysis Video](https://github.com/NelluriLokesh/AI-Based-Road-Traffic-Analysis-System/blob/main/output.avi)
 ## Table of Contents
 -----------------
 
@@ -10,6 +9,7 @@
 * [Features](#features)
 * [Installation](#installation)
 * [Usage](#usage)
+* [Uploading a Video File](#uploading-a-video-file)
 * [Requirements](#requirements)
 * [Contributing](#contributing)
 * [License](#license)
@@ -85,6 +85,21 @@ python Main.py
 ### Step 3: View the Output
 
 * The processed video will be saved as `output.avi` in the project directory
+
+## Uploading a Video File
+-------------------------
+
+To upload a video file for processing, follow these steps:
+
+1. **Prepare Your Video**: Ensure your video file is in a supported format (e.g., MP4, AVI).
+2. **Place the Video in the Project Directory**:
+   - Copy your video file to the project directory where the `Main.py` script is located:
+     ```
+     c:\Visual Studio codes\Mini Projects\AI-based road traffic analysis system\
+     ```
+3. **Run the Script**: After placing the video file in the project directory, run the `Main.py` script to start processing the video.
+
+4. **View the Output**: The processed video will be saved as `output.avi` in the same directory.
 
 ## Requirements
 ------------
