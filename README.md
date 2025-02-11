@@ -1,7 +1,7 @@
 # AI-Based Road Traffic Analysis System
 =====================================
 
-![Traffic Analysis](https://example.com/traffic_analysis_image.png)
+![Traffic Analysis](https://github.com/NelluriLokesh/AI-Based-Road-Traffic-Analysis-System/blob/main/output.avi)
 
 ## Table of Contents
 -----------------
